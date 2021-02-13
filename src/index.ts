@@ -42,3 +42,7 @@
 // callbackSample();
 // promiseSample();
 // asyncAwaitSample();
+
+// keyofのテスト
+import { User, UserKeyOfName } from './etc/keyof';
+console.log(User[UserKeyOfName]);
