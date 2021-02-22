@@ -44,5 +44,11 @@
 // asyncAwaitSample();
 
 // keyofのテスト
-import { User, UserKeyOfName } from './etc/keyof';
-console.log(User[UserKeyOfName]);
+// import { User, UserKeyOfName } from './etc/keyof';
+// console.log(User[UserKeyOfName]);
+
+// localstrageのテスト
+// const set = (key: string, value: string) => localStorage.setItem(key, value);
+// const get = (key: string) => localStorage.getItem(key);
+
+// set('hoge', 'fuga');
